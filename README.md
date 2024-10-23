@@ -22,7 +22,7 @@ Este proyecto es una API REST para manejar una lista de franquicias, sucursales 
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/franchise-api.git
+   git clone https://github.com/Grimaniel/nequi_Grimaniel.git
    cd franchise-api
 
 Instala las dependencias:
